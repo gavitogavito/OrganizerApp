@@ -1,4 +1,4 @@
-package com.joacoalaguive.mvvmnoteapp
+package com.joacoalaguive.mvvmnoteapp.feature_note.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
