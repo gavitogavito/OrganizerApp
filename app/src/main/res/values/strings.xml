@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MVVMNoteApp</string>
+
+    <!--Error control-->
+    <string name="exception_empty_title_note">The title of the not can\'t be empty</string>
+    <string name="exception_empty_content_note">The content of the not can\'t be empty</string>
 </resources>
